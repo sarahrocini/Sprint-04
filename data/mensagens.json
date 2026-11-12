@@ -1,0 +1,23 @@
+
+[
+  {
+    "id": 1,
+    "usuario": "Exemplo",
+    "texto": "Gravado em arquivo!"
+  },
+  {
+    "id": 2,
+    "usuario": "Exemplo",
+    "texto": "Gravado em arquivo!"
+  },
+  {
+    "id": 3,
+    "usuario": "Exemplo",
+    "texto": "Gravado em arquivo!"
+  },
+  {
+    "id": 4,
+    "usuario": "Exemplo",
+    "texto": "Gravado em arquivo!"
+  }
+]
